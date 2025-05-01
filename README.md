@@ -7,7 +7,7 @@ Este projeto simula dois filtros ativos de segunda ordem com topologia MFB (Mult
 ## 🎛️ Esquema do Circuito
 
 <p align="center">
-  <img src="Imagens/esquema_projeto03.png" width="600px">
+  <img src="imagens/esquema_projeto03.png" width="600px">
 </p>
 
 ### 🔧 Configuração:
@@ -58,10 +58,6 @@ Este projeto simula dois filtros ativos de segunda ordem com topologia MFB (Mult
 ---
 
 ## 📈 Análise do Resultado
-
-<p align="center">
-  <img src="Imagens/frequencia_projeto03.png" width="600px">
-</p>
 
 - O filtro passa-alta remove os graves e realça os harmônicos da nota A, podendo até lembrar uma onda mais quadrada se houver conteúdo harmônico.
 - O filtro passa-baixa elimina os agudos e suaviza o som da nota A, reduzindo brilho e presença.
